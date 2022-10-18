@@ -3,7 +3,8 @@
   <a href="https://github.com/Paulo-Vitor-GPN">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Vitor-GPN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Vitor-GPN&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <img height="1600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Vitor-GPN&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
 <div style="display: inline_block"><br>
